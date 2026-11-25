@@ -1,0 +1,233 @@
+232
+Abondance;Alpes;4;8;2;1
+Abries en Queyras;Alpes;2;3;10;1
+Aiguilles en Queyras;Alpes;3;3;0;0
+Aillons Margeriaz;Alpes;8;22;6;4
+Albiez Montrond;Alpes;3;13;8;4
+Alpe d'Huez;Alpes;34;31;28;18
+Alpe du Grand Serre;Alpes;5;19;12;2
+Alti Aigoual;Massif Central;4;6;4;0
+Ancelle;Alpes;5;7;7;1
+Areches Beaufort;Alpes;3;11;12;4
+Artouste;Pyrenees;2;9;6;1
+Arvieux en Queyras;Alpes;7;1;5;1
+Ascou Pailheres;Pyrenees;4;5;6;2
+Auris en oisans;Alpes;6;9;5;4
+Auron;Alpes;3;17;16;10
+Aussois;Alpes;3;7;7;3
+Autrans;Alpes;7;5;6;3
+Avoriaz;Alpes;8;25;14;6
+Ax 3 Domaines;Pyrenees;9;11;10;6
+Bareges;Pyrenees;15;24;15;4
+Beille;Pyrenees;1;5;7;5
+Bellevaux - Hirmentaz;Alpes;7;8;10;1
+Bernex;Alpes;3;5;9;4
+Bessans;Alpes;1;2;0;0
+Besse Super Besse;Massif Central;5;9;9;4
+Beuil les Launes;Alpes;11;11;28;6
+Bonneval sur Arc;Alpes;3;12;8;3
+Bramans;Alpes;0;1;1;2
+Brameloup;Massif Central;3;1;3;0
+Brides les Bains;Alpes;6;26;24;10
+Bussang - Larcenaire;Vosges;3;4;1;0
+Cambre d'Aze;Pyrenees;7;5;8;3
+Camurac;Pyrenees;1;4;3;3
+Cauterets;Pyrenees;4;9;8;2
+Ceillac en Queyras;Alpes;4;2;9;1
+Chabanon;Alpes;9;12;10;5
+Chaillol;Alpes;4;5;4;0
+Chalmazel;Massif Central;2;6;6;2
+Chamonix;Alpes;18;43;42;15
+Champagny en Vanoise;Alpes;10;72;34;19
+Chamrousse;Alpes;7;14;16;6
+Chastreix Sancy;Massif Central;6;5;5;2
+Chatel;Alpes;9;15;15;6
+Col d'Ornon;Alpes;3;1;2;2
+Col de Marcieu;Alpes;1;3;2;0
+Col de Porte;Alpes;0;3;2;0
+Col de Rousset;Alpes;12;7;5;2
+Combloux;Alpes;11;17;29;8
+Cordon;Alpes;2;3;6;0
+Corren on en Vercors;Alpes;13;12;16;10
+Courchevel;Alpes;21;41;36;11
+Crest Voland Cohennoz;Alpes;30;68;50;9
+Crevoux;Alpes;1;7;6;1
+Ce ze;Alpes;6;6;5;0
+Doucy;Alpes;13;31;12;5
+Espace Alpin Bellefontaine;Jura;1;3;1;0
+Etang de Lers;Pyrenees;0;1;1;2
+Flaine;Alpes;9;28;22;6
+Flumet - St Nicolas la Chapelle;Alpes;30;67;51;11
+Font d'Urle;Alpes;5;6;6;0
+Font-Romeu - Bolquere - Pyrenees 2000;Pyrenees;15;9;8;9
+Formigueres;Pyrenees;3;6;9;1
+Gaschney 360;Vosges;1;1;5;0
+Gavarnie Gedre;Pyrenees;7;9;8;5
+Ghisoni;Corse;2;2;3;0
+Goulier;Pyrenees;2;3;2;1
+Gourette;Pyrenees;7;13;14;4
+Gresse en Vercors;Alpes;10;5;5;7
+Greolieres les Neiges;Alpes;22;22;22;20
+Guzet;Pyrenees;7;9;9;4
+Gerardmer;Vosges;9;4;8;1
+Hautacam;Pyrenees;5;5;6;0
+Isola 2000;Alpes;7;22;13;3
+L'Audibergue - La Mouliere;Alpes;7;5;10;1
+La Bresse Brabant;Vosges;1;3;3;1
+La Bresse Hohneck;Vosges;2;16;14;1
+La Bresse Lispach;Vosges;2;4;1;1
+La Chapelle d'Abondance;Alpes;6;13;5;0
+La Clusaz;Alpes;16;30;30;8
+La Colmiane;Alpes;7;10;0;3
+La Combe Saint Pierre;Jura;2;2;0;0
+La Croix de Bauzon;Massif Central;3;6;1;1
+La Giettaz;Alpes;11;17;30;8
+La Grave la Meije;Alpes;0;1;0;0
+La Loge des Gardes;Massif Central;4;0;0;0
+La Mongie;Pyrenees;15;24;15;4
+La Norma;Alpes;8;6;12;1
+La Pierre St Martin;Pyrenees;3;16;8;2
+La Plagne;Alpes;9;67;33;19
+La Planche des Belles Filles;Vosges;3;1;1;1
+La Rosiere 1850;Alpes;8;13;15;5
+La Sambuy;Alpes;1;2;4;5
+La Schlucht;Vosges;0;2;0;0
+La Source du Doubs - Mouthe;Jura;2;1;1;0
+La Tania;Alpes;21;41;36;11
+La Toussuire;Alpes;5;18;18;2
+Laguiole;Massif Central;1;6;6;3
+Lans en Vercors;Alpes;10;12;7;1
+Larche;Alpes;1;2;1;1
+Laye en Champsaur;Alpes;2;2;3;1
+Le Ballon d'Alsace;Vosges;6;3;3;2
+Le Bleymard - Mont Lozere;Massif Central;1;1;4;1
+Le Champ du Feu;Vosges;4;4;6;0
+Le Chazelet;Alpes;4;3;4;0
+Le Chioula;Pyrenees;3;4;3;3
+Le Collet d'Allevard;Alpes;6;9;8;4
+Le Corbier;Alpes;10;15;12;4
+Le Desert d'Entremont;Alpes;1;2;1;0
+Le Grand Bornand;Alpes;14;13;14;5
+Le Grand Puy;Alpes;3;2;5;3
+Le Grand Valtin;Vosges;1;1;1;0
+Le Granier;Alpes;2;1;1;0
+Le Lac Blanc;Vosges;2;3;7;1
+Le Lioran;Massif Central;9;15;15;6
+Le Markstein;Vosges;4;3;2;2
+Le Mont Dore;Massif Central;15;8;6;2
+Le Mourtis;Pyrenees;4;5;7;3
+Le Reposoir;Alpes;2;5;3;0
+Le Sappey en Chartreuse;Alpes;1;2;3;0
+Le Schnepfenried;Vosges;4;3;4;5
+Le Semnoz;Alpes;5;7;8;0
+Les 2 Alpes;Alpes;13;48;17;12
+Les 7 Laux;Alpes;11;14;19;7
+Les Agudes;Pyrenees;6;22;17;4
+Les Angles;Pyrenees;14;9;14;8
+Les Arcs;Alpes;10;55;42;16
+Les Bottieres;Alpes;1;2;4;0
+Les Brasses;Alpes;4;5;9;2
+Les Carroz;Alpes;4;13;7;4
+Les Contamines Montjoie;Alpes;8;12;19;9
+Les Coulmes;Alpes;3;4;1;0
+Les Egaux;Alpes;1;2;1;0
+Les Estables - Mezenc;Massif Central;3;3;1;1
+Les Fourgs;Jura;7;6;2;0
+Les Gets;Alpes;4;32;27;9
+Les Haberes;Alpes;2;9;7;1
+Les Houches;Alpes;1;11;14;4
+Les Karellis;Alpes;6;6;12;4
+Les Menuires;Alpes;12;42;23;8
+Les Monts d'Olmes;Pyrenees;2;5;11;3
+Les Orres;Alpes;9;4;18;4
+Les Plans d'Hotonnes - Plateau de Retord;Jura;2;7;4;0
+Les Rousses;Jura;14;18;18;6
+Les Saisies;Alpes;8;32;13;7
+Luchon Superbagneres;Pyrenees;4;12;6;5
+Lus la Jarjatte;Alpes;2;4;1;0
+Luz Ardiden;Pyrenees;3;4;17;5
+Manigod;Alpes;4;11;13;1
+Megeve;Alpes;35;54;72;26
+Menthieres;Jura;2;2;4;1
+Mijanes - Donezan;Pyrenees;3;5;4;4
+Molines en Queyras;Alpes;7;12;12;2
+Mont Saxonnex;Alpes;3;4;3;1
+Montchavin - La Plagne;Alpes;9;73;32;19
+Montclar les 2 vallees;Alpes;5;11;10;3
+Montgenevre;Alpes;9;13;16;10
+Montmin - Col de la Forclaz;Alpes;1;3;1;0
+Montriond;Alpes;8;25;13;4
+Monts Jura;Jura;13;15;15;4
+Morillon;Alpes;3;12;4;1
+Morzine;Alpes;4;5;9;2
+Meaudre;Alpes;1;8;6;0
+Meribel;Alpes;8;26;28;8
+Metabief Mont d'Or;Jura;10;13;9;3
+Nistos;Pyrenees;1;2;5;0
+Notre Dame de Bellecombe;Alpes;21;40;33;4
+Orcieres Merlette;Alpes;9;17;18;7
+Orelle;Alpes;11;36;31;8
+Oz en oisans;Alpes;9;11;10;3
+Passy Plaine Joux;Alpes;3;3;3;0
+Peisey Vallandry;Alpes;3;29;28;9
+Peyresourde;Pyrenees;6;22;17;4
+Piau Engaly;Pyrenees;4;19;11;7
+Porte Puymorens;Pyrenees;11;7;11;6
+Pra-Loup;Alpes;7;17;22;4
+Praboure;Massif Central;1;2;4;0
+Pralognan la Vanoise;Alpes;7;5;6;6
+Praz de Lys Sommand;Alpes;7;28;12;6
+Praz sur Arly;Alpes;2;13;9;1
+Puy-Saint-Vincent;Alpes;4;17;11;3
+Puyvalador;Pyrenees;3;3;2;0
+Risoul;Alpes;3;20;17;3
+Ristolas en Queyras;Alpes;2;0;0;0
+Roc d'Enfer - St Jean d'Aulps;Alpes;7;7;14;2
+Romme;Alpes;0;4;2;1
+Roubion - Les Buisses;Alpes;2;4;12;2
+Reallon;Alpes;4;5;3;1
+Saint Colomban des Villards;Alpes;2;11;4;2
+Saint Fran ois Longchamp;Alpes;12;18;9;3
+Saint Gervais Mont-Blanc;Alpes;24;36;43;17
+Saint Hilaire du Touvet;Alpes;1;4;5;0
+Saint Jean d'Arves;Alpes;10;14;12;5
+Saint Jean de Sixt;Alpes;1;0;0;0
+Saint Lary Soulan;Pyrenees;3;30;15;8
+Saint Leger les Melezes;Alpes;8;4;4;1
+Saint Martin de Belleville;Alpes;12;42;23;8
+Saint Maurice sur Moselle;Vosges;4;3;2;1
+Saint Pierre de Chartreuse / Le Planolet;Alpes;8;6;10;4
+Saint Sorlin d'Arves;Alpes;9;14;9;7
+Saint Veran;Alpes;7;12;12;2
+Sainte Anne la Condamine;Alpes;3;6;3;1
+Sainte Foy Tarentaise;Alpes;1;7;12;6
+Samo ns;Alpes;21;40;33;4
+Sauze Super Sauze;Alpes;6;12;14;2
+Savoie Grand Revard;Alpes;7;13;9;3
+Serre Chevalier;Alpes;5;30;38;10
+Serre Eyraud;Alpes;2;2;3;1
+Sixt Fer   Cheval;Alpes;2;4;0;0
+Superdevoluy / La Joue du Loup;Alpes;8;28;12;5
+Thollon les Memises;Alpes;2;3;9;2
+Tignes;Alpes;6;33;20;16
+Turini Camp d'Argent;Alpes;2;1;1;0
+Val Cenis;Alpes;16;20;22;5
+Val d'Allos;Alpes;5;29;22;8
+Val d'Azun;Pyrenees;1;2;3;3
+Val d'Isere;Alpes;15;33;22;10
+Val Louron;Pyrenees;2;8;8;2
+Val Pelens;Alpes;5;2;0;0
+Val Thorens;Alpes;11;39;30;8
+Valberg;Alpes;7;6;24;5
+Valfrejus;Alpes;3;11;6;4
+Valloire;Alpes;18;29;33;10
+Vallouise-Pelvoux;Alpes;2;8;6;2
+Valmeinier;Alpes;18;29;33;10
+Valmorel;Alpes;13;31;12;5
+Vars;Alpes;4;30;30;8
+Vaujany;Alpes;9;11;10;3
+Ventoux - Mont Serein;Alpes;4;4;6;4
+Ventron;Vosges;2;3;3;2
+Villard de Lans;Alpes;14;12;16;10
+Villard Reculas;Alpes;6;4;3;1
+Xonrupt - Le Poli;Vosges;2;2;0;0
